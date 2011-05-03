@@ -1,0 +1,22 @@
+body {
+	background: url(../img/bg.gif);
+}
+
+table {
+	font-family: Arial;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+	background: white;
+}
+
+tr:nth-child(odd) {
+	background: #eee;
+}
+
+td {
+	padding: .5em;
+	margin: 0;
+}

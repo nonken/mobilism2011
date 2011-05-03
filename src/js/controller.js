@@ -1,0 +1,3 @@
+;(function(){
+	dojo.read('init');
+})();

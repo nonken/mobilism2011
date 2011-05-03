@@ -1,0 +1,183 @@
+{
+	"objects": [
+    {
+        "title": "Registration and Full-on Breakfast",
+        "speaker": "",
+        "time": null
+    },
+    {
+        "title": "Welcome to the JSConf Trail",
+        "speaker": "JSConf Team",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/7edca1476b18fe06e50883702e26eafa\">Bytes and Blobs</a>",
+        "speaker": "David Flanagan",
+        "time": "9:20 AM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/c7bf7fec8a0afceeabf584d143bdb9c8\">Conference Wifi Redux</a>",
+        "speaker": "Malte Ubl and Meno Abels",
+        "time": "10:00 AM"
+    },
+    {
+        "title": null,
+        "speaker": "Intermission Entertainment with Popcorn.js",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/eedf3aa8dabe4621ac6c1cf7f1ef547d\">Run your JS everywhere, with Jellyfish</a>",
+        "speaker": "Adam Christian",
+        "time": "11:00 AM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/6f23fd600302403a9f53e11390186b11\">Fighting Crime and Kicking Apps with Batman.js</a>",
+        "speaker": "Nick Small",
+        "time": "11:40 AM"
+    },
+    {
+        "title": null,
+        "speaker": "The Aaron and Paul Show!",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/7edca1476b18fe06e50883702e1c02d5\">Hello, Jo!</a>",
+        "speaker": "Dave Balmer",
+        "time": "1:20 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/eff575eed3ae974073b61c61648b67d4\">Bespin, Skywriter, Ace - The Past, Present and Future of online Code Editing</a>",
+        "speaker": "Fabian Jakobs",
+        "time": "2:00 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/4615bc127aa33f8c82ff6fccff5c6152\">JavaScript Powered TVs?!</a>",
+        "speaker": "Jeremy Johnstone",
+        "time": "2:40 PM"
+    },
+    {
+        "title": null,
+        "speaker": "Snack Break",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/6f23fd600302403a9f53e113900ea477\">How quick can we be? Current data visualization techniques for front-end engineers</a>",
+        "speaker": "Avni Khatri and Alice Bonhomme-Biais",
+        "time": "3:40 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/6f23fd600302403a9f53e113900eab1a\">JS for Mobile: The Enyo Framework</a>",
+        "speaker": "Ben Combee",
+        "time": "4:20 PM"
+    },
+    {
+        "title": null,
+        "speaker": "Intermission Entertainment with Popcorn.js",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/9b24b4cbddec671383481fe1620bdb97\">Everything is Permitted: Extending Built-ins</a>",
+        "speaker": "Andrew Dupont",
+        "time": "5:20 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/aa273630746598e4dec3edb9fcb4ddcf\">Artificial Intelligence, collision detection and falling in love in Pistol Slut, a 2D platform shooter.</a>",
+        "speaker": "Mary Rose Cook",
+        "time": "6:00 PM"
+    },
+    {
+        "title": "Closing Remarks",
+        "speaker": "JSConf Team",
+        "time": null
+    },
+    {
+        "title": "Bring on the BACON Breakfast",
+        "speaker": "",
+        "time": null
+    },
+    {
+        "title": "River Fording 101: JS1k #winning",
+        "speaker": "JSConf Team and Peter van der Zee",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/a9fca797d253b4786999888e1032cca1\">App vs Web - Lessons from Zappos.com</a>",
+        "speaker": "Ray C. Morgan",
+        "time": "9:20 AM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/9b24b4cbddec671383481fe16204278c\">Simple, Powerful Modules for JS.Next</a>",
+        "speaker": "Dave Herman",
+        "time": "10:00 AM"
+    },
+    {
+        "title": null,
+        "speaker": "Intermission Entertainment with Popcorn.js",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/7edca1476b18fe06e50883702e219c84\">Telephony and Communication Apps with Node.js</a>",
+        "speaker": "Mark Headd",
+        "time": "11:00 AM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/c7bf7fec8a0afceeabf584d143d16862\">Pimp Your JS Library</a>",
+        "speaker": "Dan Webb",
+        "time": "11:40 AM"
+    },
+    {
+        "title": null,
+        "speaker": "The Aaron and Paul Show! Season 2",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/6f23fd600302403a9f53e11390159614\">Heaven and Hell: JavaScript Everywhere</a>",
+        "speaker": "Matthew Eernisse",
+        "time": "1:20 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/eedf3aa8dabe4621ac6c1cf7f1a9b760\">Introducing Waterbear</a>",
+        "speaker": "Dethe Elza",
+        "time": "2:00 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/c7bf7fec8a0afceeabf584d1432b5440\">Nano? Pico? Femto? Atto? Zepto!</a>",
+        "speaker": "Thomas Fuchs",
+        "time": "2:40 PM"
+    },
+    {
+        "title": null,
+        "speaker": "Snack Break",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/eedf3aa8dabe4621ac6c1cf7f1f47fdc\">Notes on a High-performance JSON Protocol</a>",
+        "speaker": "Daniel Austin",
+        "time": "3:40 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/eff575eed3ae974073b61c6164dc11bb\">How 2011-era JS engines compile your scripts (and why it matters)</a>",
+        "speaker": "Marijn Haverbeke",
+        "time": "4:20 PM"
+    },
+    {
+        "title": null,
+        "speaker": "Intermission Entertainment with Popcorn.js",
+        "time": null
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/proposal/9b24b4cbddec671383481fe16204b9d0\">CoffeeScript as a JS/Next</a>",
+        "speaker": "Jeremy Ashkenas",
+        "time": "5:20 PM"
+    },
+    {
+        "title": "<a href=\"http://2011.jsconf.us/#/dysentery\">Performance of feature detection</a>",
+        "speaker": "Alex Russell",
+        "time": "6:00 PM"
+    },
+    {
+        "title": "Closing Remarks",
+        "speaker": "Chris And Laura Williams",
+        "time": null
+    }]
+}
